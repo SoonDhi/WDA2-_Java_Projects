@@ -18,7 +18,9 @@
 3. Git Branch 및 Version 관리 학습.
 
 ## 버전
-
++ 0.1 JavaFX Chatting Server_Client
++ 0.2 JavaFX Chatting Server_Main
++ 0.3 JavaFX Chatting Client_Main
 
 
 ## 개발자
