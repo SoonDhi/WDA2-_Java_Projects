@@ -18,10 +18,12 @@
 3. Git Branch 및 Version 관리 학습.
 
 ## 버전
-+ 0.1 JavaFX Chatting Server_Client
-+ 0.2 JavaFX Chatting Server_Main
-+ 0.3 JavaFX Chatting Client_Main
-
++ ver 0.1  JavaFX Chatting Server_Client
+  - Add 서버와 클라이언트 간 통신
++ ver 0.2 JavaFX Chatting Server_Main
+  - Add 서버컴퓨터 구현
++ ver 0.3 JavaFX Chatting Client_Main
+  - Add 클라이언트(채팅창) 구현
 
 ## 개발자
 #### WDA 2조
